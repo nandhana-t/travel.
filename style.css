@@ -1,0 +1,263 @@
+
+.nav{
+    position: absolute;
+    margin-left: 50%;
+    color: black;
+}
+
+.img1{
+    margin-top: 2px;
+    
+}
+.container{
+    position: relative;
+}
+.img2{
+    position: absolute;
+    left: 14px;
+    padding-top: 30px;
+}
+p{
+    width: 30%;
+}
+.container{
+    position: relative;
+}
+.text{
+    position: absolute;
+    background-color: rgb(235, 209, 235); 
+    width: 25%;
+    padding: 1%;
+    margin-left: 40%; 
+    margin-top: -20%;
+    height: 120%;
+
+}
+.link{
+    margin-left: 15%;
+    margin-top: -4%;
+}
+.images{
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.caption{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+#btn{
+   margin-left: 36%;
+   margin-top: 10%;
+}
+.img3{
+   
+    width: 100%;
+    background-size: cover;
+}
+.banner{
+    background-image: url(./2L1A4033-2.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-top: 10%;
+}
+.banner-text{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15%;
+    font-size: 20px;
+}
+.images2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.a1{
+    position: relative;
+    margin-top: -2%;
+}
+.a1-text{
+  position: absolute;
+  color: white;
+  font-size: medium;
+  justify-content: center;
+}
+.a2{
+    position: relative;
+    margin-top: -32%;
+}
+.a2-text{
+    position: absolute;
+    color: white;
+    font-size: medium;
+    justify-content: center;
+    margin-top: -18%;
+    margin-left: 9%;
+}
+.a3{
+    position: relative;
+    margin-left: 67%;
+    margin-top: -31%;
+}
+.a3-text{
+    position: absolute;
+    color:white;
+    font-size: medium;
+    justify-content: center;
+    margin-top: -18%;
+    margin-left: 75%;
+
+}
+.images3{
+
+    width: 55%;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+
+.b1{
+    position: relative;
+    margin-top: -2%;
+    margin-left: -49%;
+   
+}
+.b1-text{
+   position: absolute;
+  color:white;
+  font-size: medium;
+  justify-content: center;
+  margin-left: -30%;
+}
+
+.b2{
+    position: relative;
+    margin-top: -33%;
+    margin-left: 35%;
+    width: 15%;
+   
+}
+.b2-text{
+    position: absolute;
+  color: white;
+  font-size: medium;
+  justify-content: center;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.b3{
+    position: relative;
+    margin-top: -31%;
+    margin-left: 67%;
+
+}
+.b3-text{
+    position: absolute;
+  color:white;
+  font-size: medium;
+  justify-content: center;
+  margin-left: 74%;
+  margin-top: -20%;
+}
+.image4{
+    position: relative;
+}
+.image4-text{
+    position: absolute;
+    margin-top: -15%;
+    color: white;
+    align-items: center;
+    margin-left: 24%;
+}
+.image5{
+    position: relative;
+}
+.image5-text{
+    position:absolute;
+    margin-top: -20%;
+    color: white;
+    align-items: center;
+    margin-left: 24%;
+}
+.images6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4%;
+}
+.footer{
+    position: relative;
+}
+.ul2{
+    display: flex;
+    flex-direction: column;
+    padding-top: -50px;
+    position: absolute;
+    margin-top: -16%;
+    margin-left: 37%;
+    text-decoration: underline orange;
+}
+.user{
+   
+    position: relative;
+}
+.user{
+     margin-left: 70%;
+    margin-top: -20%;
+    position: absolute;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.img7{
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+
+.custom-button {
+  border: 2px solid #dfbccd; /* pink border color */
+  background-color: transparent; /* transparent background */
+  color: #d6b4cd; /* white text color */
+  padding: 10px 20px; /* add some padding */
+  font-size: 16px; /* adjust font size */
+  cursor: pointer; /* change cursor on hover */
+  
+}
+
+.custom-button:hover {
+  background-color: #f3bfd9; /* pink background color on hover */
+  color: #FFFFFF; /* white text color on hover */
+}
+  
+
+  
